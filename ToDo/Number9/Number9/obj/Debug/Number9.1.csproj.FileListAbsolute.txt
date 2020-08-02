@@ -1,0 +1,7 @@
+C:\Users\Владик\source\repos\ToDo\Number9\Number9\bin\Debug\Number9.exe.config
+C:\Users\Владик\source\repos\ToDo\Number9\Number9\bin\Debug\Number9.exe
+C:\Users\Владик\source\repos\ToDo\Number9\Number9\bin\Debug\Number9.pdb
+C:\Users\Владик\source\repos\ToDo\Number9\Number9\obj\Debug\Number9.1.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\ToDo\Number9\Number9\obj\Debug\Number9.1.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\ToDo\Number9\Number9\obj\Debug\Number9.exe
+C:\Users\Владик\source\repos\ToDo\Number9\Number9\obj\Debug\Number9.pdb

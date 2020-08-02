@@ -1,0 +1,55 @@
+﻿  Source.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: APIENTRY: изменение макроопределения
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glfw3.h(104): note: см. предыдущее определение "APIENTRY"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(14): warning C4273: __glewGenBuffers: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19967): note: см. предыдущее определение "__glewGenBuffers"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(15): warning C4273: __glewBindBuffer: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19961): note: см. предыдущее определение "__glewBindBuffer"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(16): warning C4273: __glewBufferData: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19962): note: см. предыдущее определение "__glewBufferData"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(17): warning C4273: __glewUseProgram: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20034): note: см. предыдущее определение "__glewUseProgram"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(18): warning C4273: __glewGetShaderiv: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20000): note: см. предыдущее определение "__glewGetShaderiv"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(19): warning C4273: __glewLinkProgram: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20010): note: см. предыдущее определение "__glewLinkProgram"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(20): warning C4273: __glewAttachShader: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19980): note: см. предыдущее определение "__glewAttachShader"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(21): warning C4273: __glewCreateShader: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19985): note: см. предыдущее определение "__glewCreateShader"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(22): warning C4273: __glewShaderSource: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20011): note: см. предыдущее определение "__glewShaderSource"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(23): warning C4273: __glewDeleteShader: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19987): note: см. предыдущее определение "__glewDeleteShader"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(24): warning C4273: __glewGetProgramiv: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19997): note: см. предыдущее определение "__glewGetProgramiv"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(25): warning C4273: __glewDetachShader: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19988): note: см. предыдущее определение "__glewDetachShader"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(26): warning C4273: __glewDeleteBuffers: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19964): note: см. предыдущее определение "__glewDeleteBuffers"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(27): warning C4273: __glewCompileShader: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19983): note: см. предыдущее определение "__glewCompileShader"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(28): warning C4273: __glewCreateProgram: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19984): note: см. предыдущее определение "__glewCreateProgram"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(29): warning C4273: __glewDeleteProgram: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19986): note: см. предыдущее определение "__glewDeleteProgram"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(30): warning C4273: __glewGenVertexArrays: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20944): note: см. предыдущее определение "__glewGenVertexArrays"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(31): warning C4273: __glewBindVertexArray: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20942): note: см. предыдущее определение "__glewBindVertexArray"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(32): warning C4273: __glewGetShaderInfoLog: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19998): note: см. предыдущее определение "__glewGetShaderInfoLog"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(33): warning C4273: __glewGetProgramInfoLog: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19996): note: см. предыдущее определение "__glewGetProgramInfoLog"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(34): warning C4273: __glewDeleteVertexArrays: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20943): note: см. предыдущее определение "__glewDeleteVertexArrays"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(35): warning C4273: __glewVertexAttribPointer: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(20072): note: см. предыдущее определение "__glewVertexAttribPointer"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(36): warning C4273: __glewEnableVertexAttribArray: несовместимая компоновка dll
+  c:\users\владик\source\repos\ihatemylife\ihatemylife\glew.h(19991): note: см. предыдущее определение "__glewEnableVertexAttribArray"
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(87): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(88): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\владик\source\repos\ihatemylife\ihatemylife\source.cpp(264): warning C4305: аргумент: усечение из "double" в "GLfloat"
+     Создается библиотека C:\Users\Владик\source\repos\Ihatemylife\Debug\Ihatemylife.lib и объект C:\Users\Владик\source\repos\Ihatemylife\Debug\Ihatemylife.exp
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp____glewValidateProgram"
+C:\Users\Владик\source\repos\Ihatemylife\Debug\Ihatemylife.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,6 @@
+C:\Users\KREMEREA\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe.config
+C:\Users\KREMEREA\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.exe
+C:\Users\KREMEREA\source\repos\ConsoleApp7\ConsoleApp7\bin\Release\ConsoleApp7.pdb
+C:\Users\KREMEREA\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\KREMEREA\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.exe
+C:\Users\KREMEREA\source\repos\ConsoleApp7\ConsoleApp7\obj\Release\ConsoleApp7.pdb

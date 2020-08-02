@@ -1,0 +1,76 @@
+﻿  stdafx.cpp
+  NeSharp 6-.cpp
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(18): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(42): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(128): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(128): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(128): error C2238: непредвиденные лексемы перед ";"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(58): error C2079: "ord" использует не имеющую определения структуру class "Order"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(59): error C3867: "Product::InitProd": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(95): error C3867: "Coding::getcode": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(95): error C2446: ==: нет преобразования "char *" в "char *(__thiscall Coding::* )(void)"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(95): note: Не существует контекста, в котором такое преобразование возможно
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(106): error C2027: использование неопределенного типа "Order"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(247): note:  см. объявление "Order"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(186): error C2065: kalkul: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(186): error C2065: CalcuProd: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(186): error C2059: синтаксическая ошибка: )
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(191): error C2065: kalkul: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(191): error C3861: CalcuProd: идентификатор не найден
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(205): error C3867: "Coding::getcode": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(210): error C2065: kalkul: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(256): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(267): error C3867: "Coding::getcode": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(277): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(277): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(277): error C2238: непредвиденные лексемы перед ";"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(364): error C2061: синтаксическая ошибка: идентификатор "CountOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(293): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(300): error C2027: использование неопределенного типа "TypeOrder"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(272): note:  см. объявление "TypeOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(304): error C3867: "Coding::getcode": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(311): error C2027: использование неопределенного типа "TypeOrder"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(272): note:  см. объявление "TypeOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(330): error C3867: "Coding::getcode": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(330): error C2027: использование неопределенного типа "TypeOrder"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(272): note:  см. объявление "TypeOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(330): error C2660: strcmp: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(100): note:  см. объявление "strcmp"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(336): error C2039: kalkul: не является членом "Product"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(50): note:  см. объявление "Product"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(336): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(336): error C2660: strcmp: функция не принимает 1 аргументов
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(100): note:  см. объявление "strcmp"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(340): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(340): error C2039: kalkul: не является членом "Product"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(50): note:  см. объявление "Product"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(340): error C2027: использование неопределенного типа "TypeOrder"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(272): note:  см. объявление "TypeOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(342): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(342): error C2039: kalkul: не является членом "Product"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(50): note:  см. объявление "Product"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(342): error C2027: использование неопределенного типа "TypeOrder"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(272): note:  см. объявление "TypeOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(347): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(347): error C2065: CountOrder: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(347): error C2059: синтаксическая ошибка: )
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(350): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(350): error C2039: kalkul: не является членом "Product"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(50): note:  см. объявление "Product"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(350): error C2027: использование неопределенного типа "TypeOrder"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(272): note:  см. объявление "TypeOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(350): error C3861: CountOrder: идентификатор не найден
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(354): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(354): error C2039: kalkul: не является членом "Product"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(50): note:  см. объявление "Product"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(354): error C2027: использование неопределенного типа "TypeOrder"
+  c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(272): note:  см. объявление "TypeOrder"
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(354): error C3861: CountOrder: идентификатор не найден
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(362): error C2065: SSCHET: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(370): error C2065: ccc: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(372): error C2065: sss: необъявленный идентификатор
+c:\users\владик\source\repos\nesharp 6-\nesharp 6-\nesharp 6-.cpp(397): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"

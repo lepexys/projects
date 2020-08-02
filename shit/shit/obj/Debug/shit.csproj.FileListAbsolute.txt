@@ -1,0 +1,11 @@
+C:\Users\Владик\source\repos\shit\shit\obj\Debug\shit.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\shit\shit\obj\Debug\shit.csproj.CoreCompileInputs.cache
+H:\Program #\shit\shit\bin\Debug\shit.exe.config
+H:\Program #\shit\shit\bin\Debug\shit.exe
+H:\Program #\shit\shit\bin\Debug\shit.pdb
+H:\Program #\shit\shit\obj\Debug\shit.csprojAssemblyReference.cache
+H:\Program #\shit\shit\obj\Debug\shit.csproj.CoreCompileInputs.cache
+H:\Program #\shit\shit\obj\Debug\shit.exe
+H:\Program #\shit\shit\obj\Debug\shit.pdb
+C:\Users\Владик\source\repos\shit\shit\obj\Debug\shit.exe
+C:\Users\Владик\source\repos\shit\shit\obj\Debug\shit.pdb

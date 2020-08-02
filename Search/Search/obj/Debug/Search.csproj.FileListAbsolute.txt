@@ -1,0 +1,10 @@
+C:\Users\Владик\source\repos\Search\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\Search\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+H:\Program #\Search\Search\bin\Debug\Search.exe.config
+H:\Program #\Search\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache
+H:\Program #\Search\Search\bin\Debug\Search.exe
+H:\Program #\Search\Search\bin\Debug\Search.pdb
+H:\Program #\Search\Search\obj\Debug\Search.exe
+H:\Program #\Search\Search\obj\Debug\Search.pdb
+C:\Users\Владик\source\repos\Search\Search\obj\Debug\Search.exe
+C:\Users\Владик\source\repos\Search\Search\obj\Debug\Search.pdb

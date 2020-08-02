@@ -1,0 +1,7 @@
+C:\Users\Владик\source\repos\ToDo\Number11\Number11\bin\Debug\Number11.exe.config
+C:\Users\Владик\source\repos\ToDo\Number11\Number11\bin\Debug\Number11.exe
+C:\Users\Владик\source\repos\ToDo\Number11\Number11\bin\Debug\Number11.pdb
+C:\Users\Владик\source\repos\ToDo\Number11\Number11\obj\Debug\Number11.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\ToDo\Number11\Number11\obj\Debug\Number11.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\ToDo\Number11\Number11\obj\Debug\Number11.exe
+C:\Users\Владик\source\repos\ToDo\Number11\Number11\obj\Debug\Number11.pdb

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573387988 source:c:\c++\two\main.c
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	"glext.h"
+	"wglext.h"
+	<math.h>
+
+1571474327 c:\c++\two\glext.h
+	<windows.h>
+	"khrplatform.h"
+
+1571474017 c:\c++\two\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1571242132 c:\c++\two\wglext.h
+	<windows.h>
+

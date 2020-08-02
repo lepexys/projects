@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>textures/wood.jpg</file>
+	<file>textures/floor.jpg</file>
+	<file>textures/table.jpg</file>
+	<file>textures/calendar.jpg</file>
+	<file>textures/leg.jpg</file>
+	<file>textures/door.jpg</file>
+	<file>textures/fance.jpg</file>
+	<file>textures/snow.jpg</file>
+	<file>textures/forest.jpg</file>
+</qresource>
+</RCC>

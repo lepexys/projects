@@ -1,0 +1,4 @@
+﻿  plus 3.2.cpp
+c:\users\владик\source\repos\plus 3.2\plus 3.2\plus 3.2.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\владик\source\repos\plus 3.2\plus 3.2\plus 3.2.cpp(178): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  plus 3.2.vcxproj -> C:\Users\Владик\source\repos\plus 3.2\Debug\plus 3.2.exe

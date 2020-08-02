@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Payments>
+  <Payment Client="Стройдвор" DatePay="6 февраля 2016 г." PayNumber="s977" DateBill="1 февраля 2016 г." BillNumber="b-54356" SumPay="40" />
+  <Payment Client="Медсервис" DatePay="1 февраля 2016 г." PayNumber="p9456" DateBill="1 марта 2016 г." BillNumber="0312358" SumPay="100.5" />
+  <Payment Client="Медсервис" DatePay="1 февраля 2016 г." PayNumber="p9454" DateBill="1 марта 2016 г." BillNumber="0312358" SumPay="120" />
+  <Payment Client="Стройдвор" DatePay="6 февраля 2016 г." PayNumber="s977" DateBill="21 марта 2016 г." BillNumber="b-45645" SumPay="10" />
+  <Payment Client="Стройдвор" DatePay="23 февраля 2016 г." PayNumber="k943" DateBill="21 марта 2016 г." BillNumber="b-45645" SumPay="30" />
+  <Payment Client="Стройдвор" DatePay="12 апреля 2016 г." PayNumber="i1235" DateBill="21 марта 2016 г." BillNumber="b-45645" SumPay="60" />
+  <Payment Client="Стройдвор" DatePay="7 июля 2016 г." PayNumber="l44" DateBill="21 марта 2016 г." BillNumber="b-45645" SumPay="20" />
+  <Payment Client="Стройдвор" DatePay="6 февраля 2017 г." PayNumber="o95" DateBill="21 марта 2016 г." BillNumber="b-45645" SumPay="0.5" />
+  <Payment Client="Медсервис" DatePay="1 февраля 2016 г." PayNumber="p9454" DateBill="5 апреля 2016 г." BillNumber="001567" SumPay="30" />
+  <Payment Client="Медсервис" DatePay="1 февраля 2016 г." PayNumber="p123" DateBill="5 апреля 2016 г." BillNumber="001567" SumPay="70" />
+  <Payment Client="Медсервис" DatePay="5 апреля 2016 г." PayNumber="p123" DateBill="5 апреля 2016 г." BillNumber="001567" SumPay="100" />
+  <Payment Client="Стройдвор" DatePay="6 февраля 2017 г." PayNumber="o95" DateBill="17 апреля 2016 г." BillNumber="b-9876" SumPay="5" />
+  <Payment Client="Стройдвор" DatePay="6 февраля 2017 г." PayNumber="o95" DateBill="5 июня 2016 г." BillNumber="b-3654" SumPay="50" />
+  <Payment Client="Медсервис" DatePay="5 апреля 2016 г." PayNumber="p123" DateBill="23 декабря 2016 г." BillNumber="053234" SumPay="100" />
+  <Payment Client="Медсервис" DatePay="1 июля 2016 г." PayNumber="p9445" DateBill="23 декабря 2016 г." BillNumber="053234" SumPay="30.5" />
+  <Payment Client="Медсервис" DatePay="20 февраля 2017 г." PayNumber="p9455" DateBill="23 декабря 2016 г." BillNumber="053234" SumPay="10" />
+</Payments>

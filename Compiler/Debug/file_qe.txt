@@ -1,0 +1,44 @@
+procedure QuadraticEquation is
+     A,B,C,D,A2f,S: Float;
+begin
+     Put("A = ");
+     Get(A); 
+     if A = 0 then
+           Put_Line("Not a quadratic equation."); 
+           return; 
+     end if; 
+     Put("B = ");
+     Get(B); 
+     Put("C = ");
+     Get(C); 
+     A2f := A*2; 
+     D := B*B;
+     D := D-4*A*C;  
+ if D = 0 then 
+           Put("x = ");
+           Put(-B/A2f); 
+    	 else 
+ if D > 0 then 
+           S := Sqrt(D); 
+           Put("x1 = ");
+           Put((-B+S)/A2f); 
+           Put_Line("");
+           Put("x2 = ");
+           Put((-B-S)/A2f); 
+     else 
+	   D:= -D;
+	   S:=Sqrt(D);
+           Put("x1 = ");
+           Put((-B)/A2f);
+		   Put(" + (");		   
+		   Put(S/A2f);
+           Put_Line(")i");
+           Put("x2 = ");
+           Put((-Bf)/A2f);
+		   Put(" - (");		   
+		   Put(S/A2f);
+           Put_Line(")i");
+     end if; 
+	 end if;
+end;
+end QuadraticEquation;

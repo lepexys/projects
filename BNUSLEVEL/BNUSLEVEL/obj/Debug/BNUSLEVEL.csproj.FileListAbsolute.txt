@@ -1,0 +1,15 @@
+C:\Users\Владик\source\repos\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.csproj.CoreCompileInputs.cache
+H:\BNUSLEVEL\BNUSLEVEL\bin\Debug\BNUSLEVEL.exe.config
+H:\BNUSLEVEL\BNUSLEVEL\bin\Debug\BNUSLEVEL.exe
+H:\BNUSLEVEL\BNUSLEVEL\bin\Debug\BNUSLEVEL.pdb
+H:\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.exe
+H:\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.pdb
+H:\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.csprojResolveAssemblyReference.cache
+C:\Users\Владик\Desktop\BNUSLEVEL\BNUSLEVEL\bin\Debug\BNUSLEVEL.exe.config
+C:\Users\Владик\Desktop\BNUSLEVEL\BNUSLEVEL\bin\Debug\BNUSLEVEL.exe
+C:\Users\Владик\Desktop\BNUSLEVEL\BNUSLEVEL\bin\Debug\BNUSLEVEL.pdb
+C:\Users\Владик\Desktop\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.csprojAssemblyReference.cache
+C:\Users\Владик\Desktop\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.csproj.CoreCompileInputs.cache
+C:\Users\Владик\Desktop\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.exe
+C:\Users\Владик\Desktop\BNUSLEVEL\BNUSLEVEL\obj\Debug\BNUSLEVEL.pdb

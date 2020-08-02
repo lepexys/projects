@@ -1,0 +1,3 @@
+﻿  dancing_in_the_dark.cpp
+c:\c++\dancing_in_the_dark\dancing_in_the_dark\dancing_in_the_dark.cpp(222): warning C4715: build: значение возвращается не при всех путях выполнения
+  dancing_in_the_dark.vcxproj -> C:\C++\dancing_in_the_dark\Debug\dancing_in_the_dark.exe

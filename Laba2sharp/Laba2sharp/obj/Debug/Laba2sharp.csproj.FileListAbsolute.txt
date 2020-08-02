@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Laba2sharp\Laba2sharp\bin\Debug\Laba2sharp.exe.config
+C:\Users\Acer\source\repos\Laba2sharp\Laba2sharp\bin\Debug\Laba2sharp.exe
+C:\Users\Acer\source\repos\Laba2sharp\Laba2sharp\bin\Debug\Laba2sharp.pdb
+C:\Users\Acer\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.exe
+C:\Users\Acer\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.pdb
+C:\Users\Acer\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\Laba2sharp\Laba2sharp\bin\Debug\Laba2sharp.exe.config
+C:\Users\Владик\source\repos\Laba2sharp\Laba2sharp\bin\Debug\Laba2sharp.exe
+C:\Users\Владик\source\repos\Laba2sharp\Laba2sharp\bin\Debug\Laba2sharp.pdb
+C:\Users\Владик\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.exe
+C:\Users\Владик\source\repos\Laba2sharp\Laba2sharp\obj\Debug\Laba2sharp.pdb

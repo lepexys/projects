@@ -1,0 +1,7 @@
+C:\Users\Владик\source\repos\ToDo\Number6\Number6\bin\Debug\Number6.exe.config
+C:\Users\Владик\source\repos\ToDo\Number6\Number6\bin\Debug\Number6.exe
+C:\Users\Владик\source\repos\ToDo\Number6\Number6\bin\Debug\Number6.pdb
+C:\Users\Владик\source\repos\ToDo\Number6\Number6\obj\Debug\Number6.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\ToDo\Number6\Number6\obj\Debug\Number6.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\ToDo\Number6\Number6\obj\Debug\Number6.exe
+C:\Users\Владик\source\repos\ToDo\Number6\Number6\obj\Debug\Number6.pdb

@@ -1,0 +1,7 @@
+C:\Users\Владик\source\repos\kill\kill\bin\Release\kill.exe.config
+C:\Users\Владик\source\repos\kill\kill\bin\Release\kill.exe
+C:\Users\Владик\source\repos\kill\kill\bin\Release\kill.pdb
+C:\Users\Владик\source\repos\kill\kill\obj\Release\kill.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\kill\kill\obj\Release\kill.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\kill\kill\obj\Release\kill.exe
+C:\Users\Владик\source\repos\kill\kill\obj\Release\kill.pdb

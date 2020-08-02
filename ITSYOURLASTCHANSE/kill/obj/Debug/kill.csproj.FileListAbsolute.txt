@@ -1,0 +1,10 @@
+H:\Program #\kill\kill\bin\Debug\kill.exe.config
+H:\Program #\kill\kill\bin\Debug\kill.exe
+H:\Program #\kill\kill\bin\Debug\kill.pdb
+H:\Program #\kill\kill\obj\Debug\kill.csprojResolveAssemblyReference.cache
+H:\Program #\kill\kill\obj\Debug\kill.exe
+H:\Program #\kill\kill\obj\Debug\kill.pdb
+C:\Users\Владик\source\repos\kill\kill\obj\Debug\kill.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\kill\kill\obj\Debug\kill.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\kill\kill\obj\Debug\kill.exe
+C:\Users\Владик\source\repos\kill\kill\obj\Debug\kill.pdb

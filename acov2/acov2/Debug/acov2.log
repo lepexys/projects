@@ -1,0 +1,20 @@
+﻿  acov2.cpp
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(71,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(72,1): warning C4305: return: усечение из "double" в "float"
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(89,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(90,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(94,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(71,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(72,1): warning C4305: return: усечение из "double" в "float"
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(89,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(90,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Randoms.cpp
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(94,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(71,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(72,1): warning C4305: return: усечение из "double" в "float"
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(89,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(90,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+C:\Users\Kim\source\repos\acov2\acov2\Randoms.cpp(94,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  acov2.vcxproj -> C:\Users\Kim\source\repos\acov2\Debug\acov2.exe

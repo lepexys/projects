@@ -1,0 +1,24 @@
+with Ada.Text_IO, Ada.Integer_Text_IO, Ada.Long_Long_Integer_Text_IO; 
+
+procedure Factorial is 
+     declare 
+           function Fact (N: Integer) return Integer is
+           begin
+                 if N=0 then
+                 return 1; 
+           else 
+                 return N*Fact(N-1); 
+           end if; 
+     end Fact; 
+begin
+ i: Integer := 0;
+     loop
+           Put (i); 
+           Put ("! = ");
+           Put (Fact(i));
+	   Put (" ");
+           i := i + 1; 
+     exit when i=10; 
+     end loop;
+end; 
+end Factorial;

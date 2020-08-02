@@ -1,0 +1,2 @@
+C:\Users\Владик\source\repos\Archive\Archive\obj\Debug\Archive.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\Archive\Archive\obj\Debug\Archive.csprojAssemblyReference.cache

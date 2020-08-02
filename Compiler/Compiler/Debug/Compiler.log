@@ -1,0 +1,7 @@
+﻿  Compiler.cpp
+c:\users\владик\source\repos\compiler\compiler\compiler.cpp(1912): warning C4715: Syntax_analis::Operations: значение возвращается не при всех путях выполнения
+c:\users\владик\source\repos\compiler\compiler\compiler.cpp(243): warning C4715: Lexical_analis::Result: значение возвращается не при всех путях выполнения
+c:\users\владик\source\repos\compiler\compiler\compiler.cpp(2059): warning C4715: Syntax_analis::Operations: значение возвращается не при всех путях выполнения
+c:\users\владик\source\repos\compiler\compiler\compiler.cpp(1047): warning C4715: Syntax_analis::IC_Skan: значение возвращается не при всех путях выполнения
+c:\users\владик\source\repos\compiler\compiler\compiler.cpp(1058): warning C4715: Syntax_analis::popcheck: значение возвращается не при всех путях выполнения
+  Compiler.vcxproj -> C:\Users\Владик\source\repos\Compiler\Debug\Compiler.exe

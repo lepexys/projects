@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uml", "uml\uml.csproj", "{468AB2D0-B780-44CE-B928-D894AD061846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468AB2D0-B780-44CE-B928-D894AD061846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468AB2D0-B780-44CE-B928-D894AD061846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468AB2D0-B780-44CE-B928-D894AD061846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468AB2D0-B780-44CE-B928-D894AD061846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7DE487E-07B4-4882-B74E-A90117514D03}
+	EndGlobalSection
+EndGlobal

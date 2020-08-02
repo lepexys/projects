@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dialog>
+	<textbrowser name = "tb1" x = "120" y = "60" width = "181" height = "31">
+	</textbrowser>
+	<textbrowser name = "tb2" x = "120" y = "100" width = "181" height = "31">
+	</textbrowser>
+	<textedit name = "te1" x = "120" y = "140" width = "181" height = "31">
+	</textedit>
+	<button text = "Осуществить платёж" x = "84" y = "190" width = "181" height = "23">
+	</button>
+	<label text = "Дата" x = "50" y = "100" width = "31" height = "31">
+	</label>
+	<label text = "Фамилия" x = "50" y = "60" width = "61" height = "31">
+	</label>
+	<label text = "Оплатить" x = "140" y = "30" width = "61" height = "31">
+	</label>
+	<label text = "Платёж" x = "50" y = "140" width = "181" height = "23">
+	</label>
+</dialog>

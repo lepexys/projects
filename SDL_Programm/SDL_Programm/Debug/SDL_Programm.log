@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(43): warning C4101: rect: неиспользованная локальная переменная
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(509): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(515): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(583): warning C4101: bo2: неиспользованная локальная переменная
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(829): warning C4101: y: неиспользованная локальная переменная
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(829): warning C4101: x: неиспользованная локальная переменная
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(873): warning C4101: name: неиспользованная локальная переменная
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1069): warning C4101: buff: неиспользованная локальная переменная
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1245): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1246): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1269): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1270): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1365): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1372): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1379): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+c:\users\владик\source\repos\sdl_programm\sdl_programm\main.cpp(1386): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  SDL_Programm.vcxproj -> C:\Users\Владик\source\repos\SDL_Programm\Debug\SDL_Programm.exe

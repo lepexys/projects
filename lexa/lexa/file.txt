@@ -1,0 +1,10 @@
+int main ( ) {
+int i = 15;
+bool f;
+if ( i == 25 ) {
+  f = 2true ;
+}
+else {
+  f = i%2 ;
+}
+}

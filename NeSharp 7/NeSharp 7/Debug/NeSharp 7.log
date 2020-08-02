@@ -1,0 +1,3 @@
+﻿  NeSharp 7.cpp
+c:\users\владик\source\repos\nesharp 7\nesharp 7\nesharp 7.cpp(220): warning C4715: Product::ToString: значение возвращается не при всех путях выполнения
+  NeSharp 7.vcxproj -> C:\Users\Владик\source\repos\NeSharp 7\Debug\NeSharp 7.exe

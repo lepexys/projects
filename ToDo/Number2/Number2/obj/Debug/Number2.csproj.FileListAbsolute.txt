@@ -1,0 +1,14 @@
+C:\Users\Владик\source\repos\Number2\Number2\bin\Debug\Number2.exe.config
+C:\Users\Владик\source\repos\Number2\Number2\bin\Debug\Number2.exe
+C:\Users\Владик\source\repos\Number2\Number2\bin\Debug\Number2.pdb
+C:\Users\Владик\source\repos\Number2\Number2\obj\Debug\Number2.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\Number2\Number2\obj\Debug\Number2.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\Number2\Number2\obj\Debug\Number2.exe
+C:\Users\Владик\source\repos\Number2\Number2\obj\Debug\Number2.pdb
+C:\Users\Владик\source\repos\ToDo\Number2\Number2\bin\Debug\Number2.exe.config
+C:\Users\Владик\source\repos\ToDo\Number2\Number2\bin\Debug\Number2.exe
+C:\Users\Владик\source\repos\ToDo\Number2\Number2\bin\Debug\Number2.pdb
+C:\Users\Владик\source\repos\ToDo\Number2\Number2\obj\Debug\Number2.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\ToDo\Number2\Number2\obj\Debug\Number2.csproj.CoreCompileInputs.cache
+C:\Users\Владик\source\repos\ToDo\Number2\Number2\obj\Debug\Number2.exe
+C:\Users\Владик\source\repos\ToDo\Number2\Number2\obj\Debug\Number2.pdb

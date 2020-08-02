@@ -1,0 +1,38 @@
+procedure BinarySort is 
+
+type Arr is array (1..10) of Integer;
+mas: Arr := (14,17,11,10,3,5,21,8,15,7);
+	declare 
+		function Sort ( a: Integer, b: Integer) return Arr is 
+left: Integer:=a;
+right: Integer:=b;
+temp : Integer;
+i :Integer:=mas((a+b)/2);
+begin 
+	while left<=right loop 
+		while mas(left)>i loop 
+			left:=left+1;
+		end loop;
+	while mas(right)<i loop 
+		left:=left-1;
+	end loop;
+	if left <= right then 
+		temp := mas(left);
+		mas(left) := mas(right);
+		mas(right) := temp;
+		left:=left+1;
+		right:=right-1;
+	end if;
+end loop;
+if a<right then 
+	mas := Sort(a,right);
+end if;
+if b>left then 
+	mas := Sort(left,b); 
+end if;
+return mas;
+end Sort;
+begin 
+mas := Sort(1,10);
+end;
+end BinarySort;

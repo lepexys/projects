@@ -1,0 +1,2 @@
+C:\Users\Владик\source\repos\SUBD\SUBD\obj\Debug\SUBD.csprojAssemblyReference.cache
+C:\Users\Владик\source\repos\SUBD\SUBD\obj\Debug\SUBD.csproj.CoreCompileInputs.cache

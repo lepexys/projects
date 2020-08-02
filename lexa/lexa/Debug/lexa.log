@@ -1,0 +1,3 @@
+﻿  lexa.cpp
+c:\users\владик\source\repos\lexa\lexa\lexa.cpp(499): warning C4715: Lex_analis::Result: значение возвращается не при всех путях выполнения
+  lexa.vcxproj -> C:\Users\Владик\source\repos\lexa\Debug\lexa.exe

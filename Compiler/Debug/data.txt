@@ -1,0 +1,10 @@
+.data
+Fact PROTO  STDCALL  :dword
+
+b1 db '! = ',0
+bf dd 0
+fmd db '%d',0
+fmt db '%s',0
+.data?
+N DD ?
+i DD ?

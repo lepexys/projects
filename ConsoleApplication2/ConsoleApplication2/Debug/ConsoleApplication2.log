@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+ConsoleApplication2.obj : error LNK2001: неразрешенный внешний символ ""private: virtual int __thiscall dropthebase::start(void)" (?start@dropthebase@@EAEHXZ)"
+ConsoleApplication2.obj : error LNK2001: неразрешенный внешний символ ""private: virtual void __thiscall dropthebase::printbase(void)" (?printbase@dropthebase@@EAEXXZ)"
+ConsoleApplication2.obj : error LNK2001: неразрешенный внешний символ ""private: virtual double __thiscall dropthebase::num(void)" (?num@dropthebase@@EAENXZ)"
+H:\program C\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1120: неразрешенных внешних элементов: 3

@@ -1,0 +1,6 @@
+﻿  home.cpp
+c:\c++\home\home\home.cpp(181): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\c++\home\home\home.cpp(304): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\c++\home\home\home.cpp(138): warning C4101: buff: неиспользованная локальная переменная
+c:\c++\home\home\home.cpp(242): warning C4101: buff: неиспользованная локальная переменная
+  home.vcxproj -> C:\C++\home\Debug\home.exe

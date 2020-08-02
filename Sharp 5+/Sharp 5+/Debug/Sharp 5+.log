@@ -1,0 +1,3 @@
+﻿  Sharp 5+.cpp
+c:\users\владик\source\repos\sharp 5+\sharp 5+\sharp 5+.cpp(10): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sharp 5+.vcxproj -> C:\Users\Владик\source\repos\Sharp 5+\Debug\Sharp 5+.exe
